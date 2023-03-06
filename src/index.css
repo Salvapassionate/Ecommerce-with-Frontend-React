@@ -1,0 +1,54 @@
+body{
+  overflow-x: hidden;
+}
+.card-img-top{
+width:200px;
+height:300px;
+object-fit: contain;
+}
+
+.columnas-boton {
+  display:block;
+  align-items: center;
+}
+
+.imagen-boton {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  }
+  ul {
+  list-style: none;
+  }
+  .container {
+  width: 90%;
+  margin: auto;
+  }
+  /* Navigation */
+  .nav-main {
+      font-size: 17px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 60px;
+      padding: 20px 0;
+      }
+      .nav-brand {
+      width: 50px;
+      }
+      .nav-menu-right {
+        display: flex;
+        align-items: center;
+      }
+      
+      .icono-carrito {
+        width: 25px;
+        height: 25px;
+        margin-right: 5px;
+      }

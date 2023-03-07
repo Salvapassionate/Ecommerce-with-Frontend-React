@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+[Ver web page](https://salvapassionate.github.io/Ecommerce-with-Frontend-React/)
+
+Nota: La pagina esta implementada mayormente no se visualiza pagina con React
+se recomienda clonar reporsitorio y abriendo terminal de comando ejecutar npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

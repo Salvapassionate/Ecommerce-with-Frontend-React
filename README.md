@@ -3,7 +3,8 @@
 [Ver web page](https://salvapassionate.github.io/Ecommerce-with-Frontend-React/)
 
 Nota: La pagina esta implementada mayormente no se visualiza pagina con React
-se recomienda clonar reporsitorio y abriendo terminal de comando ejecutar npm start
+se recomienda clonar reporsitorio instalar librerias de react-dom para poderla desplegar en localhost:300 y
+por ultimo abrir terminal de comando ejecutar npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
